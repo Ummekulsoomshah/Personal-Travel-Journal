@@ -74,7 +74,7 @@ If you have any questions or need assistance with this app, feel free to contact
 
 - Your Name
 - Email: ummekulsoom215@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- GitHub: https://github.com/Ummekulsoomshah
 
 Happy journaling and safe travels! 🌍✈️
 
